@@ -55,3 +55,8 @@ A aplicação foi dividida em quatro páginas principais para manter o visual li
 * **Texto Principal:** `#4A3B43`
 * **Texto Secundário:** `#9C828D`
 * **Hidratação (Água):** `#A0C4`
+
+### Fontes
+* **Títulos:** `Playfair Display` / `Lora` (Serif)
+* **Corpo & Botões:** `Nunito` / `Poppins` (Sans-serif)
+* **Código & Snippets:** `Fira Code` / `JetBrains Mono` (Monospace)
